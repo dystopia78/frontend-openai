@@ -1,1 +1,1 @@
-# frontend-openai
+# neo-arcana
